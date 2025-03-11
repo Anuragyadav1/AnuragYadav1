@@ -1,9 +1,9 @@
-# Hi, I'm Aanurag Yadav! 👋
+# Hi, I'm Anurag Yadav! 👋
 
 ## 🚀 About Me
 - 🌱 I’m a **MERN Stack Developer** with expertise in **React, Node.js, Express, MongoDB**.
 - 🎓 Final-year **Computer Science and Engineering (CSE) student**.
-- 🔭 Working on **E-commerce, Task Manager, and Blog Platforms**.
+- 🔭 Working on **Food Delivery, Chat Application etc**.
 - 💡 Interested in **web development, API design, and database management**.
 
 ## 📫 Connect with Me
