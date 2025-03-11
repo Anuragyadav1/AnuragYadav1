@@ -7,9 +7,9 @@
 - 💡 Interested in **web development, API design, and database management**.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox)](your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/anurag-yadav-39a7b9223/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox)]([your-portfolio-link](https://anurag-yadav-portfolio.onrender.com/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:10anuragyadav2002@gmail.com)
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
