@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-yadav-39a7b9223/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox)](https://anurag-yadav-portfolio.onrender.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github)](https://github.com/Anuragyadav1) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:10anuragyadav2002@gmail.com)
 
 
 
