@@ -53,4 +53,4 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anuragyadav1&theme=dark&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anuragyadav1&theme=dark&hide_border=false?v=1)  
