@@ -1,9 +1,9 @@
 # Hi, I'm Anurag Yadav! 👋
 
 ## 🚀 About Me
-- 🌱 I’m a **MERN Stack Developer** with expertise in **React, Node.js, Express.js, MongoDB**.  
-- 🎓 Final-year **Computer Science and Engineering (CSE) student** at **IIIT Sri City**.  
-- 🔭 Working on **Food Delivery, Real-Time Chat Application, etc**.  
+- 🌱 I’m a **Full Stack Developer** with expertise in **React, Node.js, Express.js, MongoDB**.  
+- 🎓 Graduated with a **B.Tech in Computer Science and Engineering (CSE) from IIIT Sri City**.  
+- 💻 Currently working as a **SDE Intern at Samunnati**.  
 - 💡 Interested in **Web Development, API Design, and Cloud Technologies**.  
 
 ---
