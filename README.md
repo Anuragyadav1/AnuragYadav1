@@ -12,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-yadav-39a7b9223/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=firefox)](https://anurag-yadav-portfolio.onrender.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github)](https://github.com/Anuragyadav1) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Anuragyadav1)  
+
 
 
 
